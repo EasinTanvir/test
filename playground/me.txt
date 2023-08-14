@@ -1,0 +1,5 @@
+{{#user}
+Name: MD Easin
+Skills: HTML, CSS, JS, ReactJs, Redux, Next.js, Json Web Token, Bootstrap5, NodeJs, ExpressJs, Restapi, MongoDB, Socket.io
+Email: easintanvir102@gmail.com
+{{/user}}
